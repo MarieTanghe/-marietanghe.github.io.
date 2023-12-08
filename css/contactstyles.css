@@ -1,0 +1,35 @@
+.contact {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.contact>.container {
+    width: 60%;
+    padding: 45px;
+    border-radius: 0;
+}
+
+.contact>.container>.row {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.col-md-7 {
+    padding: 20px;
+}
+
+.col-md-5 {
+    background-color: #1089ff;
+    padding: 20px;
+    color: white;
+}
+
+p a{
+    text-decoration: none;
+    color: white; 
+}
+
+p a:hover{
+    text-decoration: none;
+    color: black; 
+}

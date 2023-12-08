@@ -1,0 +1,38 @@
+.containerHome{
+    display:flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 0 auto;
+    padding: 45px;
+}
+
+.containerHome .blockH{
+    margin:0px;
+    padding:10px;
+    flex:50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    overflow: hidden;
+}
+
+.blockH p{
+ text-align: center;
+font-size: 20px;
+}
+
+.logoHome{
+    height: 200px;
+ 
+}
+
+
+
+
+

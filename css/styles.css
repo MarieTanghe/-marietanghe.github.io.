@@ -1,0 +1,60 @@
+main{
+    height: auto;
+}
+
+.logo{
+    height: 60px;
+}
+
+header>nav{
+    background-color: 	#DCDCDC;
+}
+.navbar-brand{
+    margin-right: 100px;
+}
+
+.socials{
+    text-align: center;
+    margin: 0px;
+    color: gray;
+}
+
+.socials a{
+    font-size: 30px;
+    display: inline-block;
+    padding: 10px;
+}
+
+footer{
+    padding-top: 20px;
+    height: 100px;
+    background-color: 	#DCDCDC;
+}
+
+.logo{
+    height: 60px;
+}
+
+header>nav{
+    background-color: 	#DCDCDC;
+}
+.navbar-brand{
+    margin-right: 100px;
+}
+
+.socials{
+    text-align: center;
+    color: gray;
+}
+
+.socials a{
+    font-size: 30px;
+    display: inline-block;
+    padding: 10px;
+}
+
+footer{
+    height: 100px;
+    background-color: 	#DCDCDC;
+    border-top: 20px;
+}

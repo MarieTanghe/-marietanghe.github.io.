@@ -1,0 +1,12 @@
+.container-overons{
+    background-color: cornflowerblue;
+    display:flex;
+    margin: 0 auto;
+    padding: 45px;
+}
+
+.container-overons .block{
+    margin:50px;
+    padding:50px;
+    background-color: white;
+}

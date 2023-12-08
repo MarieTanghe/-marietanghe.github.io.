@@ -1,0 +1,16 @@
+main .containerActiviteiten{
+    background-color: white;
+    height: auto;
+    display:flex;
+    width: 60%;
+    margin: 0 auto;
+    padding: 45px;
+}
+
+p{
+    margin-bottom: 0px;
+}
+
+ul{
+    padding: 0;
+}
